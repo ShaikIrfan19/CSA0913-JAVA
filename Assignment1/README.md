@@ -1,8 +1,8 @@
 # Assignment 1 – CO1: Java Fundamentals and Object-Oriented Programming
 ## Campus Smart-Parking System (SIMATS Engineering)
 
-**Student Name:** Moksha Dude (dudemoksha)  
-**Register Number:** 192372374  
+**Student Name:** S.MD.IRFAN
+**Register Number:** 192373001
 **Course:** Programming in Java (CSA09)  
 **Course Outcome:** CO1  
 **Java Version:** OpenJDK 17.0.21.0.2 LTS  
