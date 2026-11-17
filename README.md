@@ -73,7 +73,3 @@ java TaskB4_FinalDecision.EnterpriseMigrationDemo
 ```
 
 ---
-
-## 📄 Assignment Source Document
-The official problem statement and syllabus document for all 5 assignments is preserved in the repository root:
-- [`CSA09_Java_Assignments_CO1-CO5_R1.docx`](./CSA09_Java_Assignments_CO1-CO5_R1.docx)
